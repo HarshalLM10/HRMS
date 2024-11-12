@@ -159,6 +159,13 @@ override_doctype_class = {
 # ---------------
 # Hook on document methods and events
 
+fixtures = [
+    {"dt": "Custom Field", "filters": [["dt", "=", "Employee"]]}
+]
+
+
+
+
 doc_events = {
 
 
