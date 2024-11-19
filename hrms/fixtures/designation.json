@@ -1,0 +1,202 @@
+[
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "SR.TECHNICIAN",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:03.573157",
+  "name": "SR.TECHNICIAN",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "SKILLED",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:08.659616",
+  "name": "SKILLED",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "CNC TECHNICIAN",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:15.518193",
+  "name": "CNC TECHNICIAN",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "DEPUTY MANAGER(CNC)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:22.598275",
+  "name": "DEPUTY MANAGER(CNC)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "SITE SUPERVISOR",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:31.937268",
+  "name": "SITE SUPERVISOR",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "SENIOR ENGINEER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:39.534743",
+  "name": "SENIOR ENGINEER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "SR.SUPERVISOR",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:44.713874",
+  "name": "SR.SUPERVISOR",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "MANAGER (ERECTION)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:51.213279",
+  "name": "MANAGER (ERECTION)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "PARCHASE OFFICER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:14:55.569837",
+  "name": "PARCHASE OFFICER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "ASST.GEN.MANAGER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:02.477831",
+  "name": "ASST.GEN.MANAGER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "ASST.MATERIAL SUPER.",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:07.779447",
+  "name": "ASST.MATERIAL SUPER.",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "SR.SECURITY OFFICER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:12.096671",
+  "name": "SR.SECURITY OFFICER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "STORE ASSISTANT",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:15.854333",
+  "name": "STORE ASSISTANT",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "ASST.MANAGER-QUALITY",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:20.218712",
+  "name": "ASST.MANAGER-QUALITY",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "MANAGER (ASSEMBLY)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:28.187382",
+  "name": "MANAGER (ASSEMBLY)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "SR.ENGINEER-QUALITY",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:32.077646",
+  "name": "SR.ENGINEER-QUALITY",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "MANAGER (DESIGN)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:36.958733",
+  "name": "MANAGER (DESIGN)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "PLANNING ENGINEER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:40.114027",
+  "name": "PLANNING ENGINEER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "ASST.MANAGER(EDP)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:15:44.166434",
+  "name": "ASST.MANAGER(EDP)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": "BSIL",
+  "designation_name": "SR.OFFICER(SAFETY)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2024-11-19 15:13:50.943156",
+  "name": "SR.OFFICER(SAFETY)",
+  "skills": []
+ }
+]
