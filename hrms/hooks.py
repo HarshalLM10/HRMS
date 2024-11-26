@@ -217,20 +217,6 @@ doc_events = {
 	"Task": {"on_update": "hrms.controllers.employee_boarding_controller.update_task"},
 }
 
-fixtures = [
-    {
-        "dt": "Custom Field",
-        "filters": [
-            ["name", "in", ["Employee-custom_division", "Employee-custom_category"]]
-        ]
-    },
-    {
-        "dt": "DocType",
-        "filters": [
-            ["name", "in", ["Division", "Category"]]
-        ]
-    }
-]
 
 
 # Scheduled Tasks
