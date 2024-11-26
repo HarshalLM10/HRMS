@@ -217,6 +217,9 @@ doc_events = {
 	"Task": {"on_update": "hrms.controllers.employee_boarding_controller.update_task"},
 }
 
+fixtures = [
+        {"doctype": "DocType", "filters": [["name", "in", ["Category", "Division"]]]}  # Corrected this line
+]
 
 
 # Scheduled Tasks
